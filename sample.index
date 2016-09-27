@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+<script type='text/javascript' src='https://www.google.com/jsapi'></script><br />
+<script type='text/javascript' src='geochart.js'></script>
+</div>
+<div>
+    <select id="magazine" name="magazine">
+        <option value="1">週刊ベースボール</option>
+        <option value="2">報知高校野球</option>
+        <option value="3">ホームラン</option>
+    </select>
+</div>
+<div id="chart_bb"></div>
+<div id="chart_hc"></div>
+<div id="chart_hm"></div>
+</body></html>
